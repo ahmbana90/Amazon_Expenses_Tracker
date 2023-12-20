@@ -4,7 +4,7 @@ from time import sleep
 from sys import argv, exit
 
 # List to save data dictionaries inputs from menu(),
-# to be called in purchase report 
+
 purchase_list= []
 
 # Main Function to call the file with arguments (registration with username & password) 
